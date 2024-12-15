@@ -5,6 +5,11 @@
         "deadline": "2025/3/24"
     },
     {
+        "task": "Resign from work",
+        "priority": "High",
+        "deadline": "2025/01/04"
+    },
+    {
         "task": "Buy a car",
         "priority": "Medium",
         "deadline": "2025/06/10"
