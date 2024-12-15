@@ -1,0 +1,17 @@
+[
+    {
+        "task": "Buy a house",
+        "priority": "High",
+        "deadline": "2025/3/24"
+    },
+    {
+        "task": "Buy a car",
+        "priority": "Medium",
+        "deadline": "2025/06/10"
+    },
+    {
+        "task": "Go on holiday",
+        "priority": "Low",
+        "deadline": "2025/10/12"
+    }
+]
