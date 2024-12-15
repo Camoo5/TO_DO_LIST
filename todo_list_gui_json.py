@@ -27,7 +27,7 @@ class ToDoApp:
 
         # Scrollbar for the Listbox
         self.scrollbar = tk.Scrollbar(
-            self.frame, orient=tk.VERTICAL, command=self.task_listbox.yview, bg="lightblue")
+            self.frame, orient=tk.VERTICAL, command=self.task_listbox.yview, bg="darkblue")
         self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         self.task_listbox.config(yscrollcommand=self.scrollbar.set)
 
