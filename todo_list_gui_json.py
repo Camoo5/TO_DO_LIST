@@ -48,7 +48,7 @@ class ToDoApp:
 
         # Buttons
         self.add_task_button = tk.Button(root, text="Add Task", command=self.add_task,
-                                         bg="green", fg="white")
+                                         bg="purple", fg="white")
         self.add_task_button.pack(pady=5)
 
         self.delete_task_button = tk.Button(root, text="Delete Task", command=self.delete_task,
