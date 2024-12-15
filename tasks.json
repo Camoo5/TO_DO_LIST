@@ -1,25 +1,7 @@
 [
     {
-        "task": "Buy a house",
-        "priority": "High",
-        "deadline": "2025/3/24"
-    },
-    {
-        
-    },
-    {
-        "task": "Start freelance work",
-        "priority": "High",
-        "deadline": "205/01/21"
-    },
-    {
-        "task": "Buy a car",
-        "priority": "Medium",
-        "deadline": "2025/06/10"
-    },
-    {
-        "task": "Go on holiday",
+        "task": "Get a new job",
         "priority": "Low",
-        "deadline": "2025/10/12"
+        "deadline": "2025/01/4"
     }
 ]
