@@ -10,6 +10,11 @@
         "deadline": "2025/01/04"
     },
     {
+        "task": "Start freelance work",
+        "priority": "High",
+        "deadline": "205/01/21"
+    },
+    {
         "task": "Buy a car",
         "priority": "Medium",
         "deadline": "2025/06/10"
